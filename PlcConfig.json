@@ -1,0 +1,24 @@
+{
+    "plc": {
+        "ip": "192.168.1.82",
+        "rack": 0,
+        "slot": 1
+    },
+    "signals": {
+        "trigger": {
+            "area": "M",
+            "byte": 0,
+            "bit": 0
+        },
+        "done": {
+            "area": "M",
+            "byte": 0,
+            "bit": 1
+        },
+        "result": {
+            "area": "M",
+            "byte": 0,
+            "bit": 2
+        }
+    }
+}
